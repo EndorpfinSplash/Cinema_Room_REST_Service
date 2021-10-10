@@ -1,0 +1,32 @@
+content:
+- Integer types and operations
+- The while and do-while loops
+- Switch statement
+- Calling a method
+- Declaring a method
+- The main method
+- Functional decomposition
+- Iterating over arrays
+- Multidimensional array
+- Arrays as parameters
+- Errors in programs
+- Defining classes
+- Constructor
+- Instance methods
+- Package
+- Getters and setters
+- Objects
+- Interface
+- Comparable
+- What is an exception
+- NPE
+- Introduction to generic programming
+- Generics and Object
+- What are collections
+- ArrayList
+- The List interface
+- Multiple constructors
+- The keyword super
+- Comments
+- Hierarchy of exceptions
+- Exception handling
